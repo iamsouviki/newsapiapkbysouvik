@@ -1,4 +1,4 @@
-# newsapiapkbysouvik
+# GOOGLE NEWS API ANDROID APPLICATION
 
 A single page news app based on Google news API.
 
